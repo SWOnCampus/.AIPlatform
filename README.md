@@ -1,4 +1,21 @@
-# <img src="https://github.com/user-attachments/assets/27a1a463-0ccf-48fc-b5c5-ef31567b3b25" alt="Biz Mind" width="45"/>  Biz Mind
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/27a1a463-0ccf-48fc-b5c5-ef31567b3b25" alt="Biz Mind" width="45"/>
+  <h1>Biz Mind</h1>
+</div>
+
+<div align="center">
+  <h2>📑 목차</h2>
+  <p>
+    <a href="#-프로젝트-소개">📖 프로젝트 소개</a><br><br>
+    <a href="#-주요-기능">🚀 주요 기능</a><br><br>
+    <a href="#-기술-스택">📊 기술 스택</a><br><br>
+    <a href="#-시스템-아키텍처">🛠 시스템 아키텍처</a><br><br>
+    <a href="#-프로젝트-결과">📈 프로젝트 결과</a><br><br>
+    <a href="#-팀-소개">🌟 팀 소개</a><br><br>
+    <a href="#-메인화면-및-기업-컨설팅-예시-화면">🖼 메인화면 및 기업 컨설팅 예시 화면</a>
+  </p>
+</div>
+
 
 ## 📖 프로젝트 소개
 본 프로젝트는 중소기업의 채팅형 형태로 정보를 입력받아 **LLM 기반의 AI Transformation 컨설팅**과 리포트를 제공하는 플랫폼입니다.  
