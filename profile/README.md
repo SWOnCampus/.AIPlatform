@@ -71,6 +71,12 @@
 - **Database**: PostgreSQL 및 AWS RDS를 활용한 데이터 저장 및 관리.
 - **DevOps**: Docker 및 Github Actions를 이용한 배포 및 운영 관리.
 
+### 서비스 구조
+![image](https://github.com/user-attachments/assets/89627912-93d7-4425-b536-fd8e821bbc8f)
+
+### AI 서버 구조
+![image](https://github.com/user-attachments/assets/a14e7584-07ce-4fe7-8a51-c1c5f4962172)
+
 ---
 
 ## 📈 프로젝트 결과
